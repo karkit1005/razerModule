@@ -1,4 +1,8 @@
 {
+  "name": "razertest",
+  "version": "1.0.0",
+  "description": "Razer Test",
+  "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
